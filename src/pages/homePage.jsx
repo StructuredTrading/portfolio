@@ -1,7 +1,7 @@
 import React from 'react';
-import IntroductionSection from '../components/introductionSection';
-import FeaturedProjects from '../components/featuredProjectsSection';
-import CallToAction from '../components/callToActionSection';
+import IntroductionSection from '../components/home/introductionSection';
+import FeaturedProjects from '../components/home/featuredProjectsSection';
+import CallToAction from '../components/home/callToActionSection';
 
 const HomePage = () => {
     
